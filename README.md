@@ -77,6 +77,6 @@ To build dynamic webpages that accept user inputs and visually adjust to reflect
 •	**Adding drop down-menu from the filter**. Sometimes users don’t know what exactly they are looking for and just exploring our web-page and its data. We could increase positive user experience by adding drop-down menu. In this case user won’t have to guess what options they have.
 
 ## Resources
-(1)	What is JavaScript, Developer Mozilla: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript Web 27 Sep 2020.
+(1)	What is JavaScript, Developer Mozilla: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript Web 23 Jan 2023.
 
-(2)	Module 11. UFO Sightings with JavaScript https://courses.bootcampspot.com/courses/200/pages/11-dot-0-1-creating-dynamic-content?module_item_id=78211, Trilogy Education Services, 2000, Web 27 Sep 2020.
+(2)	Module 11. UFO Sightings with JavaScript https://courses.bootcampspot.com/courses/2316/pages/12-dot-0-1-creating-dynamic-content?module_item_id=743510, Trilogy Education Services, 2000, Web 23 Jan 2023.
